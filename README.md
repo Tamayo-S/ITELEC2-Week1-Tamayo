@@ -18,4 +18,8 @@
 
 **My Prediction for 250 / 4:**
 
-I predicted that the answer would be 62. The result is also 62 when using integer division because C# removes the decimal part when dividing two integers. The remainder is 2. When converted to double, the exact answer is 62.50.
+I predicted that the answer would be 62. The result is also 62 when using integer division because C# removes the decimal part when dividing two integers. The remainder is 2. When converted to double, the exact answer is 62.50
+
+## Final Reflection
+
+Through this activity, I learned how to create simple C# console programs, use different data types, perform calculations, and upload my projects to GitHub. I also learned how to identify and fix basic compile errors.
